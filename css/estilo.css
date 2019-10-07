@@ -1,0 +1,11 @@
+header {
+  height: 60px;
+  width: 1590px;
+  padding: 10 px;
+  background-color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 20px;
+  border-radius: 10px
+
+}
