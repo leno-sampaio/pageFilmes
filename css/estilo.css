@@ -18,15 +18,42 @@ ul {
   margin: 0;
   padding: 0;
   width: 400px;
-  background-color: red;
+  background-color: dimgrey;
   border-radius: 10px;
   }
 
 li a {
     display: block;
-    color: black;
+    color: white;
     padding: 8px 16px;
     text-decoration: none;
     border-radius: 10px
 }
+
+li a:hover {
+    background-color: yellow;
+    color: black;
+}
+
+.link_menu {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
   
+}
+
+.imagem img {
+  margin-left: 60px
+}
+
+footer {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+  border-radius: 10px;
+  font-size: 18px;
+  background-color: dimgray;
+  color: white;
+
+
+}
